@@ -1,0 +1,12 @@
+/home/dzania/Documents/kody/rustlings/target/release/deps/inotify-4428fb3541111db2.rmeta: /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/lib.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/events.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/fd_guard.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/inotify.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/util.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/watches.rs
+
+/home/dzania/Documents/kody/rustlings/target/release/deps/libinotify-4428fb3541111db2.rlib: /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/lib.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/events.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/fd_guard.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/inotify.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/util.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/watches.rs
+
+/home/dzania/Documents/kody/rustlings/target/release/deps/inotify-4428fb3541111db2.d: /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/lib.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/events.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/fd_guard.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/inotify.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/util.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/watches.rs
+
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/lib.rs:
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/events.rs:
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/fd_guard.rs:
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/inotify.rs:
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/util.rs:
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.1/src/watches.rs:

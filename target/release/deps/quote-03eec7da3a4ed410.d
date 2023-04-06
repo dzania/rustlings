@@ -1,0 +1,13 @@
+/home/dzania/Documents/kody/rustlings/target/release/deps/quote-03eec7da3a4ed410.rmeta: /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/lib.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ext.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/format.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ident_fragment.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/to_tokens.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/runtime.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/spanned.rs
+
+/home/dzania/Documents/kody/rustlings/target/release/deps/libquote-03eec7da3a4ed410.rlib: /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/lib.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ext.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/format.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ident_fragment.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/to_tokens.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/runtime.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/spanned.rs
+
+/home/dzania/Documents/kody/rustlings/target/release/deps/quote-03eec7da3a4ed410.d: /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/lib.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ext.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/format.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ident_fragment.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/to_tokens.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/runtime.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/spanned.rs
+
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/lib.rs:
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ext.rs:
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/format.rs:
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ident_fragment.rs:
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/to_tokens.rs:
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/runtime.rs:
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/spanned.rs:

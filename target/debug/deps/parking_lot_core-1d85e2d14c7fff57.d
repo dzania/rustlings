@@ -1,0 +1,10 @@
+/home/dzania/Documents/kody/rustlings/target/debug/deps/parking_lot_core-1d85e2d14c7fff57.rmeta: /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/lib.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/parking_lot.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/spinwait.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/util.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/word_lock.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/thread_parker/linux.rs
+
+/home/dzania/Documents/kody/rustlings/target/debug/deps/parking_lot_core-1d85e2d14c7fff57.d: /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/lib.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/parking_lot.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/spinwait.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/util.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/word_lock.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/thread_parker/linux.rs
+
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/lib.rs:
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/parking_lot.rs:
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/spinwait.rs:
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/util.rs:
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/word_lock.rs:
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/thread_parker/linux.rs:

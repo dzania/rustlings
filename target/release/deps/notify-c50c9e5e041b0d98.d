@@ -1,0 +1,12 @@
+/home/dzania/Documents/kody/rustlings/target/release/deps/notify-c50c9e5e041b0d98.rmeta: /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/inotify.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs
+
+/home/dzania/Documents/kody/rustlings/target/release/deps/libnotify-c50c9e5e041b0d98.rlib: /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/inotify.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs
+
+/home/dzania/Documents/kody/rustlings/target/release/deps/notify-c50c9e5e041b0d98.d: /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/inotify.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs /home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs
+
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs:
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/inotify.rs:
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs:
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs:
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs:
+/home/dzania/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs:

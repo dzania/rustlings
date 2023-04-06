@@ -1,0 +1,1 @@
+/home/dzania/Documents/kody/rustlings/target/release/rustlings: /home/dzania/Documents/kody/rustlings/src/exercise.rs /home/dzania/Documents/kody/rustlings/src/main.rs /home/dzania/Documents/kody/rustlings/src/project.rs /home/dzania/Documents/kody/rustlings/src/run.rs /home/dzania/Documents/kody/rustlings/src/ui.rs /home/dzania/Documents/kody/rustlings/src/verify.rs
